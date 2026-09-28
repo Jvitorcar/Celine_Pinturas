@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://celine.pinturas.github.io/sitemap.xml
